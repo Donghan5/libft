@@ -7,3 +7,5 @@
   - Control the error cases
   - We can use the function which we already coded
   - Don't forget to free after dynamic allocation
+
+** ft_printf isn't in libft project **
